@@ -1,2 +1,3 @@
 c:\users\ahilon\documents\visual studio 2015\Projects\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.exe.config
 c:\users\ahilon\documents\visual studio 2015\Projects\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csprojResolveAssemblyReference.cache
+C:\Users\ahilon\Desktop\ahilon\trunk\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.exe.config

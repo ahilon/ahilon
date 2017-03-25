@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Figury\Hetman.cs" />
     <Compile Include="Figury\Pionek.cs" />
     <Compile Include="Figury\Figura.cs" />
     <Compile Include="Figury\Goniec.cs" />
