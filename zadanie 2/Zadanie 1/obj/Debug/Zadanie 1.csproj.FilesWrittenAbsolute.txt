@@ -1,0 +1,6 @@
+/home/vski/Pobrane/ahilon-master/Zadanie 1/Zadanie 1/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vski/Pobrane/ahilon-master/Zadanie 1/Zadanie 1/bin/Debug/Zadanie 1.exe.config
+/home/vski/Pobrane/ahilon-master/Zadanie 1/Zadanie 1/bin/Debug/Zadanie 1.exe.mdb
+/home/vski/Pobrane/ahilon-master/Zadanie 1/Zadanie 1/bin/Debug/Zadanie 1.exe
+/home/vski/Pobrane/ahilon-master/Zadanie 1/Zadanie 1/obj/Debug/Zadanie 1.exe
+/home/vski/Pobrane/ahilon-master/Zadanie 1/Zadanie 1/obj/Debug/Zadanie 1.exe.mdb
